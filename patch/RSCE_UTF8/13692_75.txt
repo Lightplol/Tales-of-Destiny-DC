@@ -1648,7 +1648,7 @@ the heat of the moment.
 <Lion>
 [ENDBLOCK]
 It was Will's actions that ultimately
-lead to the completion of the mission.
+led to the completion of the mission.
 For this, I am proud of him.
 [ENDBLOCK]
 <Dryden>
