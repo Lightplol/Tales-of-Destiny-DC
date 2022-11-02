@@ -25,8 +25,8 @@ me for someone else.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-Come on, stop jerking my chain.
-I want to hear about your travels.
+Come on, stop jerking my chain. I
+want to hear about your travels.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
@@ -52,8 +52,9 @@ Yeah, you could be twins.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-If anyone who knew him saw you,
-they would have quite the reaction.
+If anyone who knew him saw
+you, they would have quite
+the reaction.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
@@ -137,7 +138,7 @@ the royal treatment when you return.
 [ENDBLOCK]
 Regular
 [ENDBLOCK]
-That Oberon company that buys up
+That Oberon Corp. that buys up
 lens? They're a global enterprise.
 [ENDBLOCK]
 Regular
@@ -147,8 +148,8 @@ one behind all this nonsense?
 [ENDBLOCK]
 Regular
 [ENDBLOCK]
-I never trusted them,
-not from the very start.
+I never trusted them, not
+from the very start.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
