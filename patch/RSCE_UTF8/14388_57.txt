@@ -535,8 +535,8 @@ The Canvas has been unlocked.
 Notice
 [ENDBLOCK]
 By interacting with the blank canvas
-in <Chelsea>'s room in <Alba>'s cabin,
-you can view different facial
+in <Chelsea>'s room inside of <Alba>'s
+cabin, you can view different facial
 expressions of your friends.
 [ENDBLOCK]
 Chatty Old Man
@@ -545,13 +545,14 @@ The Art of Rock Rally!
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-You may want to check this room
-from different angles.
+You may want to check this
+room from different angles.
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
-Rocks abound in the world. They will
-do their best to be that new possibility.
+Rocks abound in the world. They
+will do their best to be that new
+possibility.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
@@ -560,8 +561,9 @@ Return to the side of your beloved!
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
-Heed the words of the old man. Go to <Dalis>.
-Who knows what you may find there.
+Heed the words of the old man. Go
+to <Dalis>. Who knows what you may
+find there.
 [ENDBLOCK]
 oldflag -><x17><x71><x4A><x1C><x80>
 
@@ -577,10 +579,10 @@ openflag -><x17><x71><x4A><x24><x80>
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
-Web passwords are now unlocked.
-New possibilities have opened up
-in this world, please listen carefully
-to the Chatty old man.
+Website passwords are now unlocked.
+New possibilities have opened up in
+this world, please listen carefully to
+the Chatty old man.
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
@@ -669,8 +671,8 @@ in a way you can't normally see them.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-Don't you think this will be
-a bit entertaining...?
+Don't you think this will
+be a bit entertaining...?
 [ENDBLOCK]
 ???
 [ENDBLOCK]
@@ -821,8 +823,8 @@ the Legendary Carrot!?
 Young Man
 [ENDBLOCK]
 You're a city person, aren't you?
-I've been to the city before,
-so I know what it's like!
+I've been to the city before, so
+I know what it's like!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -832,8 +834,8 @@ your sheep for you?
 Young Man
 [ENDBLOCK]
 You're a city person, aren't you?
-I've been to the city before,
-so I know what it's like!
+I've been to the city before, so
+I know what it's like!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -844,8 +846,8 @@ back to my place?
 Young Man
 [ENDBLOCK]
 You're a city person, aren't you?
-I've been to the city before,
-so I know what it's like!
+I've been to the city before, so
+I know what it's like!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -869,9 +871,9 @@ I'm counting on you, <Stahn>.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-I want my sheep to be able
-to graze comfortably. I
-want my leeks back, too!
+I want my sheep to be able to
+graze comfortably. I want my
+leeks back, too!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -911,9 +913,9 @@ the air, though.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-There's been a lot of
-monster attacks, lately.
-It's sure kept me busy!
+There's been a lot of monster
+attacks, lately. It's sure kept
+me busy!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -1067,8 +1069,9 @@ work it out with Grandpa.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-"Never abandon a person in need."
-It's the Aileron family motto, isn't it?
+"Never abandon a person
+in need." It's the Aileron
+family motto, isn't it?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

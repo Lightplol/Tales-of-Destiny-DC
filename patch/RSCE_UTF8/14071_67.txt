@@ -70,7 +70,8 @@ you expect me to?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>, he's just a kid, you shou-
+<Lion>, he's just a kid,
+you shou-
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -87,9 +88,9 @@ B-But father doesn't...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-If he won't change, then
-it's up to you to change
-your own way of thinking.
+If he won't change, then it's up
+to you to change your own way
+of thinking.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -178,8 +179,8 @@ The Canvas has been unlocked.
 Notice
 [ENDBLOCK]
 By interacting with the blank canvas
-in <Chelsea>'s room in <Alba>'s cabin,
-you can view different facial
+in <Chelsea>'s room inside of <Alba>'s
+cabin, you can view different facial
 expressions of your friends.
 [ENDBLOCK]
 Chatty Old Man
@@ -188,13 +189,14 @@ The Art of Rock Rally!
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-You may want to check this room
-from different angles.
+You may want to check this
+room from different angles.
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
-Rocks abound in the world. They will
-do their best to be that new possibility.
+Rocks abound in the world. They
+will do their best to be that new
+possibility.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
@@ -203,8 +205,9 @@ Return to the side of your beloved!
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
-Heed the words of the old man. Go to <Dalis>.
-Who knows what you may find there.
+Heed the words of the old man. Go
+to <Dalis>. Who knows what you may
+find there.
 [ENDBLOCK]
 oldflag -><x17><x71><x48><x98><x80>
 
@@ -220,10 +223,10 @@ openflag -><x17><x71><x48><xA0><x80>
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
-Web passwords are now unlocked.
-New possibilities have opened up
-in this world, please listen carefully
-to the Chatty old man.
+Website passwords are now unlocked.
+New possibilities have opened up in
+this world, please listen carefully to
+the Chatty old man.
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
@@ -244,8 +247,8 @@ The Canvas has been unlocked.
 Notice
 [ENDBLOCK]
 By interacting with the blank canvas
-in <Chelsea>'s room in <Alba>'s cabin,
-you can view different facial
+in <Chelsea>'s room inside of <Alba>'s
+cabin, you can view different facial
 expressions of your friends.
 [ENDBLOCK]
 Notice
@@ -314,8 +317,8 @@ in a way you can't normally see them.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-Don't you think this will be
-a bit entertaining...?
+Don't you think this will
+be a bit entertaining...?
 [ENDBLOCK]
 ???
 [ENDBLOCK]
@@ -339,8 +342,9 @@ Well, it's nice to meet you.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-A once in a lifetime encounter is
-something that should be cherished.
+A once in a lifetime encounter
+is something that should be
+cherished.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -361,8 +365,9 @@ Oh, that time!
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-I was angry with that girly man you
-were with earlier, don't you remember?
+I was angry with that girly man
+you were with earlier, don't you
+remember?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -399,8 +404,8 @@ Really?
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-I changed my way of thinking like
-he said, and my dad is different too!
+I changed my way of thinking like he
+said, and my dad is different too!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -435,8 +440,9 @@ but can see straight into his soul...
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-Anyway, if you see that girly man
-again, please pass along my thanks!
+Anyway, if you see that girly
+man again, please pass along
+my thanks!
 [ENDBLOCK]
 Child
 [ENDBLOCK]
@@ -492,12 +498,14 @@ greatest nation in Aquaveil!
 Man
 [ENDBLOCK]
 This is Shiden territory...
-Hey, what the hell is going on?
+Hey, what the hell is going
+on?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
 You're the third prince!
-I'm glad to see you are well.
+I'm glad to see you are
+well.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -510,7 +518,8 @@ Nice to meet you, young man!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Everyone, please protect this world.
+Everyone, please protect
+this world.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
@@ -714,9 +723,9 @@ it at least 128 times.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Wow! You're doing great!
-Now the ultimate challenge,
-at least 160 times.
+Wow! You're doing great! Now
+the ultimate challenge, at least
+160 times.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -768,8 +777,9 @@ but don't enter it carelessly.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-The cave south of the city, Is it
-connected to the Moreau territory?
+The cave south of the
+city, Is it connected to
+the Moreau territory?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]

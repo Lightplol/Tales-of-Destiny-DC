@@ -24,8 +24,7 @@ set_drgn
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-Hey, <Stahn>!
-Where you going?
+Hey, <Stahn>! Where you going?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -62,8 +61,8 @@ ever grow up, <Stahn>.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-Then I figure if you did,
-you wouldn't be my <Stahn>!
+Then I figure if you did, you
+wouldn't be my <Stahn>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -118,8 +117,9 @@ the man, huh?
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-I better not fall behind... I
-can't be a little girl forever!
+I better not fall behind...
+I can't be a little girl
+forever!
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
@@ -169,14 +169,15 @@ realize that Uncle Bob was missing?
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-Well, if I recall right, that idiot
-was right dead center of where
-that big ol' blast from the sky hit.
+Well, if I recall right, that idiot was
+right dead center of where that big
+ol' blast from the sky hit.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
 At least, that's what
-someone said they saw.
+someone said they
+saw.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -200,8 +201,8 @@ him down for sure.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-I swear, that man is beyond
-human. He has the devil's luck.
+I swear, that man is beyond human.
+He has the devil's luck.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -210,9 +211,9 @@ go on though, right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Well, if she meant the
-Belcrant Cannon, then...
-He's on the Aethersphere?
+Well, if what she meant was the 
+Belcrant Cannon, then... He's on
+the Aethersphere?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -238,8 +239,8 @@ into someone else's house.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-I really shouldn't leave
-town with her following me.
+I really shouldn't leave town
+with her following me.
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -341,8 +342,8 @@ is Rock Rally.
 [ENDBLOCK]
 Meat Merchant
 [ENDBLOCK]
-You should see how
-much fun it is, <Stahn>!
+You should see how much
+fun it is, <Stahn>!
 [ENDBLOCK]
 Meat Merchant
 [ENDBLOCK]
@@ -361,7 +362,8 @@ front of the village to Neustadt.
 [ENDBLOCK]
 Meat Merchant
 [ENDBLOCK]
-Yeah, you should give it a shot first.
+Yeah, you should give
+it a shot first.
 [ENDBLOCK]
 Meat Merchant
 [ENDBLOCK]
@@ -575,9 +577,9 @@ What...!?
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
-Okay! I reckon I'll
-let you off the peel,
-just this once.
+Okay! I reckon I'll let
+you off the peel, just
+this once.
 [ENDBLOCK]
 Wonder Baker
 [ENDBLOCK]
@@ -657,9 +659,9 @@ Let's play tag!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Big <Stahn>, are you
-going on a trip? Cool!
-Take me with you!
+Big <Stahn>, are you going
+on a trip? Cool! Take me
+with you!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -772,8 +774,8 @@ Eh? Well, if it ain't <Stahn>!
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-You think I got a lotta energy?
-Hah! Somethin' like this is nothin'!
+You think I got a lotta energy? Hah!
+Somethin' like this is nothin'!
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
@@ -787,8 +789,8 @@ young! I know I sure did!
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-It just don't feel right, like
-the sky's lookin' down on us.
+It just don't feel right, like the
+sky's lookin' down on us.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
@@ -797,8 +799,9 @@ You do your thing.
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
-I was fine because I'm still young.
-Your gramps is somethin' else, though!
+I'll be fine because I'm still young.
+Your gramps is a whole 'nother
+story!
 [ENDBLOCK]
 Aunt Maggie
 [ENDBLOCK]
@@ -835,9 +838,9 @@ Wait, you came from Seinegald?
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-If that's the case, you haven't
-seen a pointy-haired guy passed
-out on the road, have you?
+If that's the case, you haven't seen
+a pointy-haired guy passed out on
+the road, have you?
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
@@ -862,14 +865,13 @@ time. How papa would scold us!
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-<Stahn>, is this
-someone you know?
+<Stahn>, is this someone you know?
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-<Stahn>, if you ever want to
-come back to the village,
-you're always welcome...
+<Stahn>, if you ever want to come
+back to the village, you're always
+welcome...
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
@@ -924,9 +926,9 @@ You made <Lilith> sad by leaving...
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Alas, it can't be helped!
-Don't worry about <Lilith>.
-I'll look after her for you!
+Alas, it can't be helped! Don't
+worry about <Lilith>. I'll look
+after her for you!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -1234,7 +1236,7 @@ could help me with my work.
 Select
 [ENDBLOCK]
 <TAG_007>Take on a job
-I don't have time for this.
+I don't have time for this
 What kind of work?
 
 [ENDBLOCK]
@@ -1299,8 +1301,8 @@ the town of <x18><x66><x50><x24><x00><x80>.
 
 [ENDBLOCK]
 Please obtain <TAG_035> <x1A><x72><x0C><x80>,
-and deliver it as soon as
-you can.
+and deliver it as soon as you
+can.
 
 [ENDBLOCK]
 Good job, getting what I needed!
@@ -1323,21 +1325,21 @@ number of items...
 [ENDBLOCK]
 Please bring me <TAG_075> <x1A><x72><x40><x10><x80>.
 [ENDBLOCK]
-If you back out and don't finish
-a job, you'll have to pay a penalty
+If you back out and don't finish a
+job, you'll have to pay a penalty
 for breach of contract.
 [ENDBLOCK]
-You know you have to pay a penalty
-due to a breach of contract, right?
+If you back out now and don't finish
+this job, you'll have to pay a penalty
+for breach of contract.
 [ENDBLOCK]
-It's great working with ya.
+Pleasure working with ya.
 [ENDBLOCK]
 Well then, good luck.
 [ENDBLOCK]
 You can't be serious. You're not
 having second thoughts, are you?
 [ENDBLOCK]
-I must say,
 I must say, I'm a little
 disappointed...
 
@@ -1368,7 +1370,7 @@ for the inconvenience.
 You don't have enough money.
 Come back when you have it.
 [ENDBLOCK]
-I'm counting on you, man.
+Pleasure working with ya.
 
 [ENDBLOCK]
 Are you serious? This
@@ -1377,21 +1379,22 @@ is your last chance.
 What a pain in the ass...
 
 [ENDBLOCK]
-Return of advance payment and penalties
+I am charging a cancellation
 [ENDBLOCK]
-penalty.
+Breach of Contact Fee
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
-<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>
+<TAG_007><x18><x66><x50><x28><x00><x80>
+fee of <TAG_076> Gald.
 
 [ENDBLOCK]
 The contract cannot be cancelled until
 the breach of contract fee is paid.
 [ENDBLOCK]
-In the meantime, I'm going to
-ask you to pay all the money
-you have as an annoyance fee.
+In the meantime, I'm going to ask
+you to pay me the money you
+have as an annoyance fee.
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
@@ -1402,7 +1405,7 @@ for cancelling.
 Get the Gald together
 and then come back.
 [ENDBLOCK]
-Well, good luck.
+Well then, good luck.
 
 [ENDBLOCK]
 Select
@@ -1486,8 +1489,8 @@ Depot
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-As expected, <Lilith>'s
-got her brother with her...
+As expected, <Lilith>'s got
+her brother with her...
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -1508,8 +1511,8 @@ That's right.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-So that means...
-<Lilith>'s with you too?
+So that means... <Lilith>'s
+with you too?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -1532,12 +1535,13 @@ What'd you want to talk about?
 <Bacchus>
 [ENDBLOCK]
 W-Well... Ever since
-<Lilith> left, I've felt like...
+<Lilith> left, I've felt
+like...
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Like there's a hole
-in my heart, y'know?
+Like there's a hole in
+my heart, y'know?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -1562,8 +1566,8 @@ You...?
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-I become the butt
-of everyone's jokes!
+I become the butt of
+everyone's jokes!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -1576,8 +1580,8 @@ than me on the totem pole...
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Then that makes me
-the village idiot, now!!
+Then that makes me the
+village idiot, now!!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -1608,7 +1612,8 @@ I almost died!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Then again, I actually feel better...
+Then again, I actually
+feel better...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1621,15 +1626,15 @@ counting on you, big bro.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-My dream is to be known up
-to the day of my death
-as "He who lived to love!"
+To be known as "He who lived
+to love" until the day I die...
+That is my dream!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-My dream is to be known up
-to the day of my death
-as "He who lived to love!"
+To be known as "He who lived
+to love" until the day I die...
+That is my dream!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1643,7 +1648,8 @@ sayin', <Bacchus>!
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
-Aha! Someone who understands me!
+Aha! Someone who
+understands me!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -1685,8 +1691,8 @@ see you're doing well.
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-Yeah, the years
-are piling up though.
+Yeah, the years are
+piling up though.
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
@@ -1694,16 +1700,19 @@ If I may ask, where is...?
 [ENDBLOCK]
 Thomas
 [ENDBLOCK]
-My wife... passed some time ago..
+My wife... passed
+some time ago..
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
-I see... That is truly
-unfortunate. I am sorry.
+I see... That's truly 
+unfortunate. I am
+sorry.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You knew Grandma, General <Lewein>?
+You knew Grandma, 
+General <Lewein>?
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
@@ -1721,15 +1730,15 @@ get flustered like this.
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
-Well, you see, <Stahn>...
-I was quite fond of your
-grandmother back in the day.
+Well, you see, <Stahn>... I was quite
+fond of your grandmother back in
+the day.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 Woaaah! So you mean, I might
-have been the grandson
-of a general of Seinegald!?
+have been the grandson of a
+general of Seinegald!?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -1737,8 +1746,8 @@ Don't be stupid, <Stahn>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-If that were the case,
-you wouldn't even be here!
+If that were the case, you
+wouldn't even be here!
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
@@ -1762,7 +1771,6 @@ Thomas
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Aah, a man's love
-for his family!!
-It's so inspirin'!!<x00>
+Aah, a man's love for his
+family!! It's so inspirin'!!<x00>
 [ENDBLOCK]

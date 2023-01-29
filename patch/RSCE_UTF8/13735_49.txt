@@ -11,8 +11,8 @@ This is...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Hey, sis!
-Have you seen my bag?
+Hey, sis! Have you
+seen my bag?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -21,8 +21,8 @@ You're alive!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-What are you
-talking about, sis?
+What are you talking
+about, sis?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -62,8 +62,8 @@ some time off for once.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-We're taking a trip to
-the Frostheim Hot Springs!
+We're taking a trip to the
+Frostheim Hot Springs!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -75,9 +75,9 @@ Is something wrong?
 [ENDBLOCK]
 Chris
 [ENDBLOCK]
-Come on, don't just stand
-there. Get your stuff
-packed so we can get going.
+Come on, don't just stand there.
+Get your stuff packed so we can
+get going.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
@@ -105,15 +105,15 @@ it's a dream! Hahahaha!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-What are you on about, you
-weirdo? Still, I love you
-even if you are weird, sis.
+What are you going on about, you
+weirdo? Still, I love you even if
+you are weird, sis.
 [ENDBLOCK]
 Chris
 [ENDBLOCK]
 You've grown into a fine young
 woman already, <Rutee>. Let's go
-out shopping together sometime!
+shopping together sometime!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
@@ -137,7 +137,8 @@ nuns from the orphanage!
 <Rutee>
 [ENDBLOCK]
 And <Mary>, <Philia>, <Woodrow>,
-<Chelsea>, <Kongman>, and <Johnny> too!
+<Chelsea>, <Kongman>, and <Johnny>
+too!
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -216,18 +217,19 @@ she's been?
 [ENDBLOCK]
 Maid
 [ENDBLOCK]
-Welcome, sir.
-What can I do for you?
+Welcome, sir. What
+can I do for you?
 [ENDBLOCK]
 Maid
 [ENDBLOCK]
 If you don't keep up...
-<Marian> will be very upset.
+<Marian> will be very
+upset.
 [ENDBLOCK]
 Maid
 [ENDBLOCK]
-Have a good day.
-I wish you the best.
+Have a good day. I
+wish you the best.
 [ENDBLOCK]
 Maid
 [ENDBLOCK]
@@ -235,8 +237,8 @@ Maid
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-Master <Lion>, will you follow in
-your father's footsteps?
+Master <Lion>, will you follow
+in your father's footsteps?
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
@@ -277,13 +279,14 @@ to stay inside the mansion.
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-Most of the lens piled up in the
-courtyard of the castle were ours.
+Most of the lens piled up in
+the courtyard of the castle
+were ours.
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-Helping out now won't
-instantly fix our poor image...
+Helping out now won't instantly
+fix our poor image...
 [ENDBLOCK]
 <Rembrandt>
 [ENDBLOCK]
@@ -310,8 +313,8 @@ Young Master.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Stop calling me that. I'm not
-a child anymore.
+Stop calling me that. I'm
+not a child anymore.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -351,8 +354,8 @@ stand out here. Come on in.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-Welcome home.
-You're back early.
+Welcome home. You're
+back early.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -432,9 +435,9 @@ But, <Marian>, I...
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-...Emilio, if things
-get too difficult, perhaps
-you could change your name back?
+...Emilio, if things get too difficult
+for you, perhaps you could change
+your name back?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -526,8 +529,8 @@ I should go.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-Please be careful,
-and come home safe.
+Please be careful, and
+come home safe.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

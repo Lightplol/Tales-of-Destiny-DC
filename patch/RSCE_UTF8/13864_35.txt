@@ -647,7 +647,7 @@ have a lot of problems...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Above all, the
+Above all else, the
 biggest issue is...
 [ENDBLOCK]
 <Philia>
@@ -668,8 +668,8 @@ Well, that's the problem.
 <Philia>
 [ENDBLOCK]
 There are some in the higher ranks
-who see it as the sole reason for the
-temple's very existence.
+who see it as the sole reason for
+the temple's very existence.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -691,19 +691,19 @@ Is that true?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Even I don't
-know for sure.
+Even I don't know
+for sure.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Indeed, I don't
-think anyone does.
+Indeed, I don't think
+anyone does.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
 Still, this has become a problem
-that has shaken the temple to its
-very core...
+that has shaken the temple to
+its very core...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1243,8 +1243,8 @@ at the temple for a long time.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Oh, hello, <Lion>.
-What brings you to the temple?
+Oh, hello, <Lion>. What brings
+you to the temple?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

@@ -929,9 +929,8 @@ Rgh... I will not lose!
 [ENDBLOCK]
 Kratos
 [ENDBLOCK]
-Rgh...
-However, I still have
-this question!
+Rgh... However, I still
+have this question!
 [ENDBLOCK]
 Kratos
 [ENDBLOCK]
@@ -1486,8 +1485,8 @@ C. Aquaveil
 D. Phandaria
 E. Seinegald
 [ENDBLOCK]
-Q. What happens if you complete
-the rock kicking game?
+Q. What happens if you
+complete Rock Rally?
 
 [ENDBLOCK]
 A. Lens rate goes up
@@ -1624,8 +1623,9 @@ as the "Greedy Witch?"
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You haven't been around lately...
-Did you retire or something?
+Apparently she hasn't been seen
+lately... Do you think she retired
+or something?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -1640,13 +1640,13 @@ Please do your best.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-It was a pleasure to see <Lion> Magnus
-up on his feet with my own eyes.
+It's nice to actually
+meet you in person.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-But, that's it. It's smaller than
-I imagined it would be.
+But, it's strange. You're smaller
+than I imagined you would be.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]

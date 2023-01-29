@@ -21,10 +21,9 @@
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
-My cats have gone missing.
-If you see any of them, please
-contact me.
-I miss them so very much...
+My cats have gone missing. If you
+see any of them, please contact
+me. I miss them so very much...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -46,13 +45,13 @@ look for cats...?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Please!
-You know I love cats!
+Please! You know
+I love cats!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Uhm... No,
-I didn't know that...
+Uhm... No, I didn't
+know that...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -65,13 +64,13 @@ to, then let's give it a try.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-We'll be helping
-someone, after all!
+We'll be helping someone,
+after all!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Let's see... Looks like
-the Innkeeper posted this.
+Let's see... Looks like the
+Innkeeper posted this.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -90,14 +89,14 @@ Yes, what can I do for you?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Well, I'm looking
-for a certain something...
+Well, I'm looking for a
+certain something...
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-I see! Rumor has it what
-you're looking for is deep
-in Tilso Forest to the north.
+I see! Rumor has it that what
+you're looking for is deep in
+the Tilso Forest to the north.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -110,8 +109,8 @@ Well, off I go, then!
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-Excuse me, are you
-really going there alone?
+Excuse me, are you really
+going there alone?
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
@@ -119,8 +118,8 @@ What about your friends?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Please keep this a
-secret from everyone.
+Please keep this a secret
+from everyone.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -129,8 +128,8 @@ I have to do alone.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-All righty, I reckon
-I'm off to Tilso Forest, then!
+All righty, I reckon I'm off
+to Tilso Forest, then!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -158,8 +157,8 @@ No
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-All righty, I reckon
-I'm off to Tilso Forest, then!
+All righty, I reckon I'm off
+to Tilso Forest, then!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -182,8 +181,8 @@ We were so worried!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Sorry...
-I just wanted to go for a walk.
+Sorry... I just wanted
+to go for a walk.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -213,8 +212,8 @@ But... why?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-It's just something
-I came across on my walk.
+It's just something I came
+across on my walk.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -227,8 +226,8 @@ Ugh, seriously!?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-You're fighting and risking
-your life, trying to save the world!
+You're fighting and risking your
+life, trying to save the world!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -241,8 +240,8 @@ I'll take it, then.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Don't just take it!
-Make sure you use it!
+Don't just take it! Make
+sure you use it!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -251,8 +250,8 @@ when you're awake, I'll...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-W-wait, <Lilith>!
-I'll use it! I promise! I swear!!
+W-wait, <Lilith>! I'll use it!
+I promise! I swear!!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -260,7 +259,8 @@ Good.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Thanks again, <Lilith>. Seriously.
+Thanks again, <Lilith>.
+Seriously.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -401,9 +401,9 @@ right now, though.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-It all worked out in the end,
-but the fact remains that
-our capital fell to the rebels.
+It all worked out in the end, but
+the fact remains that our capital
+fell to the rebels.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -789,7 +789,7 @@ could help me with my work.
 Select
 [ENDBLOCK]
 <TAG_007>Take on a job
-I don't have time for this.
+I don't have time for this
 What kind of work?
 
 [ENDBLOCK]
@@ -854,8 +854,8 @@ the town of <x18><x66><x50><x24><x00><x80>.
 
 [ENDBLOCK]
 Please obtain <TAG_035> <x1A><x72><x0C><x80>,
-and deliver it as soon as
-you can.
+and deliver it as soon as you
+can.
 
 [ENDBLOCK]
 Good job, getting what I needed!
@@ -878,21 +878,21 @@ number of items...
 [ENDBLOCK]
 Please bring me <TAG_075> <x1A><x72><x40><x10><x80>.
 [ENDBLOCK]
-If you back out and don't finish
-a job, you'll have to pay a penalty
+If you back out and don't finish a
+job, you'll have to pay a penalty
 for breach of contract.
 [ENDBLOCK]
-You know you have to pay a penalty
-due to a breach of contract, right?
+If you back out now and don't finish
+this job, you'll have to pay a penalty
+for breach of contract.
 [ENDBLOCK]
-It's great working with ya.
+Pleasure working with ya.
 [ENDBLOCK]
 Well then, good luck.
 [ENDBLOCK]
 You can't be serious. You're not
 having second thoughts, are you?
 [ENDBLOCK]
-I must say,
 I must say, I'm a little
 disappointed...
 
@@ -923,7 +923,7 @@ for the inconvenience.
 You don't have enough money.
 Come back when you have it.
 [ENDBLOCK]
-I'm counting on you, man.
+Pleasure working with ya.
 
 [ENDBLOCK]
 Are you serious? This
@@ -932,21 +932,22 @@ is your last chance.
 What a pain in the ass...
 
 [ENDBLOCK]
-Return of advance payment and penalties
+I am charging a cancellation
 [ENDBLOCK]
-penalty.
+Breach of Contact Fee
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
-<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>
+<TAG_007><x18><x66><x50><x28><x00><x80>
+fee of <TAG_076> Gald.
 
 [ENDBLOCK]
 The contract cannot be cancelled until
 the breach of contract fee is paid.
 [ENDBLOCK]
-In the meantime, I'm going to
-ask you to pay all the money
-you have as an annoyance fee.
+In the meantime, I'm going to ask
+you to pay me the money you
+have as an annoyance fee.
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
@@ -957,7 +958,7 @@ for cancelling.
 Get the Gald together
 and then come back.
 [ENDBLOCK]
-Well, good luck.
+Well then, good luck.
 
 [ENDBLOCK]
 Select
@@ -1141,8 +1142,8 @@ so funny, <Mary>.
 Old Lady
 [ENDBLOCK]
 I wanted to see <Dalis>'s handsome
-face again, so I'll be visiting
-Cyril sometime soon!
+face again, so I'll be visiting Cyril
+sometime soon!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -1181,8 +1182,8 @@ the memory...
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-You're the perfect wife for
-a hard-headed dolt like <Dalis>.
+You're the perfect wife for a
+hard-headed dolt like <Dalis>.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]

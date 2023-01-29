@@ -19,28 +19,28 @@ CUBE0<x17><x72><x00><x21><x8B><x80>の状態
 A new valve. We can use this to
 get the water system working.
 [ENDBLOCK]
-It's a new valve...
-We can use this to
-get the water system working.
+It's a new valve... We can
+use this to get the water
+system working.
 [ENDBLOCK]
-A new valve...
-We can use this to
-get the water system working.
+A new valve... We can
+use this to get the water
+system working.
 [ENDBLOCK]
 A valve...?
 [ENDBLOCK]
 It's a new valve. It'll get
 the water system going.
 [ENDBLOCK]
-A valve...
-We can use this to
-get the water system working.
+A valve... We can use
+this to get the water
+system working.
 [ENDBLOCK]
 A valve...?
 [ENDBLOCK]
-It's a valve...
-We can use this to
-get the water system working.
+It's a valve... We can use
+this to get the water
+system working.
 [ENDBLOCK]
 A valve...?
 [ENDBLOCK]
@@ -202,19 +202,20 @@ storage room for medicines.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-When you're hurt, return here.
-Don't push yourself
+When you're hurt, return
+here. Don't push yourself
 too hard.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-I could say the same for you. You
-should escape from the castle first.
+I could say the same for you.
+You should escape from the
+castle first.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]
-Until I see for myself that
-he's safe, I will remain here.
+Until I see for myself that he's
+safe, I will remain here.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]

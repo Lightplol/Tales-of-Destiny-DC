@@ -553,8 +553,9 @@ but no one has seen her around lately.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I've never seen lightning like that before.
-I can't believe it hit the city...
+I've never seen lightning like
+that before. I can't believe it
+hit the city...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -571,7 +572,7 @@ Man
 [ENDBLOCK]
 The atmosphere has changed since
 then... or perhaps her expression
-has become more melancholy.
+has become more melancholic.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -580,8 +581,8 @@ with <Marian>, But I couldn't.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-Welcome.
-We're open til midnight.
+Welcome. We're open
+until midnight.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
@@ -602,8 +603,8 @@ we'll keep the store going!
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-Welcome.
-We're open til midnight.
+Welcome. We're open
+until midnight.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
@@ -644,8 +645,8 @@ our neighbors!
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]
-Good evening.
-Please take a look.
+Good evening. Please
+take a look.
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]

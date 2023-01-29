@@ -476,8 +476,8 @@ No, you are the world's only hope!
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-Please, let us handle
-the country for the time being!
+Please, let us handle the country
+for the time being!
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
@@ -524,9 +524,9 @@ finally returned...
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
-What can we hope to
-do against such a
-powerful weapon?
+What can we hope to do 
+against such a powerful
+weapon?
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
@@ -552,8 +552,8 @@ of us. Ain't it beautiful?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Those scary guys ain't
-gonna come back, are they?
+Those scary guys ain't gonna
+come back, are they?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -578,8 +578,8 @@ You just gotta!!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Our city falling so easily
-to <Greybum> and the rebels
+Our city falling so easily to
+<Greybum> and the rebels
 shames me to no end.
 [ENDBLOCK]
 Soldier
@@ -617,14 +617,14 @@ recovered by the military.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-There seems to be some kind
-of plan regarding it, but I
-don't know anything else.
+It appears that there's some
+sort of plan regarding it, but
+I don't know anything else.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Nothing unusual to
-report, your Majesty!
+Nothing unusual to report,
+your Majesty!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -637,8 +637,7 @@ we'll be targeted by Belcrant.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-What are we
-supposed to do!?
+What are we supposed to do!?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -954,7 +953,7 @@ could help me with my work.
 Select
 [ENDBLOCK]
 <TAG_007>Take on a job
-I don't have time for this.
+I don't have time for this
 What kind of work?
 
 [ENDBLOCK]
@@ -1019,8 +1018,8 @@ the town of <x18><x66><x50><x24><x00><x80>.
 
 [ENDBLOCK]
 Please obtain <TAG_035> <x1A><x72><x0C><x80>,
-and deliver it as soon as
-you can.
+and deliver it as soon as you
+can.
 
 [ENDBLOCK]
 Good job, getting what I needed!
@@ -1043,21 +1042,21 @@ number of items...
 [ENDBLOCK]
 Please bring me <TAG_075> <x1A><x72><x40><x10><x80>.
 [ENDBLOCK]
-If you back out and don't finish
-a job, you'll have to pay a penalty
+If you back out and don't finish a
+job, you'll have to pay a penalty
 for breach of contract.
 [ENDBLOCK]
-You know you have to pay a penalty
-due to a breach of contract, right?
+If you back out now and don't finish
+this job, you'll have to pay a penalty
+for breach of contract.
 [ENDBLOCK]
-It's great working with ya.
+Pleasure working with ya.
 [ENDBLOCK]
 Well then, good luck.
 [ENDBLOCK]
 You can't be serious. You're not
 having second thoughts, are you?
 [ENDBLOCK]
-I must say,
 I must say, I'm a little
 disappointed...
 
@@ -1088,7 +1087,7 @@ for the inconvenience.
 You don't have enough money.
 Come back when you have it.
 [ENDBLOCK]
-I'm counting on you, man.
+Pleasure working with ya.
 
 [ENDBLOCK]
 Are you serious? This
@@ -1097,21 +1096,22 @@ is your last chance.
 What a pain in the ass...
 
 [ENDBLOCK]
-Return of advance payment and penalties
+I am charging a cancellation
 [ENDBLOCK]
-penalty.
+Breach of Contact Fee
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
-<TAG_007>You had to pay a <TAG_076> Gald <x18><x66><x50><x28><x00><x80>
+<TAG_007><x18><x66><x50><x28><x00><x80>
+fee of <TAG_076> Gald.
 
 [ENDBLOCK]
 The contract cannot be cancelled until
 the breach of contract fee is paid.
 [ENDBLOCK]
-In the meantime, I'm going to
-ask you to pay all the money
-you have as an annoyance fee.
+In the meantime, I'm going to ask
+you to pay me the money you
+have as an annoyance fee.
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
@@ -1122,7 +1122,7 @@ for cancelling.
 Get the Gald together
 and then come back.
 [ENDBLOCK]
-Well, good luck.
+Well then, good luck.
 
 [ENDBLOCK]
 Select
